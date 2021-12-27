@@ -15,6 +15,4 @@ It contains with html file and ipynb code file
 
 Reviews.csv - https://www.kaggle.com/snap/amazon-fine-food-reviews
 
-### Links:
 
-LinkedIn - www.linkedin.com/in/deepali-a53a65192
